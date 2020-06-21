@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	padding-top: 60px;
+}
+li{
+	padding-right: 15px 15px 15px 0px;
+}
+li>a:hover{
+	color: black;
+	border-radius: 10px;
+	background-color: #76c38f;
+	text-decoration: none;
+}
+a>h6{
+	color: white;
+	padding: 5px;
+}
+.breadcrumb-search{
+	content: " " !important;
+}
+.panner1{
+	width: 320px; 
+	height: 260px; 
+	padding-top: 100px; 
+	padding-left: 50px; 
+	color: white;
+	font-family: lato-bold;
+}
+.panner2{
+	width: 380px;
+	height: 380px;
+	background-color: #333333;
+	border-radius: 380px;
+	border: 30px solid #6b6b6b;
+	display: block;
+	margin: auto;
+	z-index: 2
+}
+.card:hover{
+	background-color: #76c38f;
+	color: white;
+	width: 300px;
+	height: 400px;
+}
+.row3{
+	text-align: center;
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+	font-family: lato-light
+
+}
+
+
+.row4{
+	width: 250px;
+	height: 50px;
+	background-color: #333333;
+	display: block;
+	margin: auto;
+	color: white;
+	text-align: center;
+	border-radius: 10px;
+}
+@font-face{
+	font-family: lato-bold;
+	font-weight: 100;
+	src:url("fonts/Lato-Bold.ttf");
+}
+@font-face{
+	font-family: lato-italic;
+	src:url("fonts/Lato-Italic.ttf");
+}
+@font-face{
+	font-family: lato-light;
+	font-weight: bold;
+	font-weight: 900;
+	font-weight: lighter;
+	src:url("fonts/Lato-Light.ttf");
+}
+@font-face{
+	font-family: lato-regular;
+	src:url("fonts/Lato-Regular.ttf");
+}
+.card:hover{
+	transition: 1.5;
+	width: 100px;
+	height: 150px;
+	position: relative;
+
+}

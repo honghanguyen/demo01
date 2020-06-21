@@ -1,0 +1,3 @@
+﻿- Sử dụng font-face để thiết kế phần header cho trang web kèm theo.
+- phần header bao gồm (menu + slideshow) chỉ thiết kế không làm javascript.
+- Font: sử dụng font kèm theo (chọn font phù hợp)
